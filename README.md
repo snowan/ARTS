@@ -80,7 +80,7 @@ Used to track 左耳听风 weekly assignments for one year.
 ### [Week #16][w16]
 | **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
-| [LC 200, 211, 15][w16]  | [How to Design a Scalable Rate Limiter][w16]| [CLI-Improved][w16] |  [Share some Podcasts I daily listen][w16] |
+| [LC 200, 211, 15, 277, 208][w16]  | [IBM's old playbook][w16]| [CLI-Improved][w16] |  [Log files][w16] |
 
 
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
