@@ -82,6 +82,11 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [LC 200, 211, 15, 277, 208][w16]  | [IBM's old playbook][w16]| [CLI-Improved][w16] |  [Log files][w16] |
 
+### [Week #17][w17]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 209, 621, 938, 334, 325, 218][w17]  | [Health checking gRPC servers on Kubernetes][w17]| [istat-menus][w17] |  [How to build a Growth team][w17] |
+
 
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
