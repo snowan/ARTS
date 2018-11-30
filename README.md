@@ -87,6 +87,10 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [LC 209, 621, 938, 334, 325, 218][w17]  | [Health checking gRPC servers on Kubernetes][w17]| [istat-menus][w17] |  [How to build a Growth team][w17] |
 
+### [Week #18][w18]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 819][w18]  | [Scaling Machine Learning at Uber with Michelangelo][w18]| [Algorithm Visualizer][w18] |  [Infrastructure as code][w18] |
 
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
@@ -104,4 +108,5 @@ Used to track 左耳听风 weekly assignments for one year.
 [w15]: https://github.com/snowan/ARTS/blob/master/2018-11-03-w15-ARTS.md
 [w16]: https://github.com/snowan/ARTS/blob/master/2018-11-10-w16-ARTS.md
 [w17]: https://github.com/snowan/ARTS/blob/master/2018-11-17-w17-ARTS.md
+[w18]: https://github.com/snowan/ARTS/blob/master/2018-11-25-w18-ARTS.md
 
