@@ -92,6 +92,11 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [LC 819][w18]  | [Scaling Machine Learning at Uber with Michelangelo][w18]| [Algorithm Visualizer][w18] |  [Infrastructure as code][w18] |
 
+### [Week #19][w19]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 721][w19]  | [Understand Java OutOfMemoryError Exception][w19]| [Dockly][w19] |  [GraphQA a Retrospective][w19] |
+
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
 [w3]: https://github.com/snowan/ARTS/blob/master/2018-07-28-W3-ARTS.md
@@ -109,4 +114,5 @@ Used to track 左耳听风 weekly assignments for one year.
 [w16]: https://github.com/snowan/ARTS/blob/master/2018-11-10-w16-ARTS.md
 [w17]: https://github.com/snowan/ARTS/blob/master/2018-11-17-w17-ARTS.md
 [w18]: https://github.com/snowan/ARTS/blob/master/2018-11-25-w18-ARTS.md
+[w19]: https://github.com/snowan/ARTS/blob/master/2018-12-02-w19-ARTS.md
 
