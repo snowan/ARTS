@@ -102,6 +102,21 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [Add binary strings][w20]  | [MySQL Index][w20]| [Shift + Command + 5 in MacOS Mojave][w20] |  [Envoy Proxy at Reddit][w20] |
 
+### [Week #19][w21]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 721][w19]  | [Understand Java OutOfMemoryError Exception][w19]| [Dockly][w19] |  [GraphQA a Retrospective][w19] |
+
+### [Week #19][w22]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 673][w22]  | [Why Python is slow][w22]| [BetterTouchTool][w22] |  [Why Kubernetes is Awesome - A beginner's guid][w22] |
+
+### [Week #19][w23]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 539][w23]  | [Kubernetes Scheduler][w23]| [Arc App][w23] |  [High Peformance Load balancing with NGINX][w23] |
+
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
 [w3]: https://github.com/snowan/ARTS/blob/master/2018-07-28-W3-ARTS.md
@@ -121,4 +136,7 @@ Used to track 左耳听风 weekly assignments for one year.
 [w18]: https://github.com/snowan/ARTS/blob/master/2018-11-25-w18-ARTS.md
 [w19]: https://github.com/snowan/ARTS/blob/master/2018-12-02-w19-ARTS.md
 [w20]: https://github.com/snowan/ARTS/blob/master/2018-12-10-w20-ARTS.md
+[w21]: https://github.com/snowan/ARTS/blob/master/2018-12-10-w20-ARTS.md
+[w22]: https://github.com/snowan/ARTS/blob/master/2018-12-23-w22-ARTS.md
+[w23]: https://github.com/snowan/ARTS/blob/master/2018-12-31-w23-ARTS.md
 
