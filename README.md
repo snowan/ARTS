@@ -105,7 +105,7 @@ Used to track 左耳听风 weekly assignments for one year.
 ### [Week #21][w21]
 | **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
-| [LC 721][w19]  | [Understand Java OutOfMemoryError Exception][w19]| [Dockly][w19] |  [GraphQA a Retrospective][w19] |
+| [LC 692][w21]  | [Concurrency vs Parallelism][w21]| [Taking notes with Everything][w21] |  [Container as I didn't know them][w21] |
 
 ### [Week #22][w22]
 | **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
@@ -136,7 +136,7 @@ Used to track 左耳听风 weekly assignments for one year.
 [w18]: https://github.com/snowan/ARTS/blob/master/2018-11-25-w18-ARTS.md
 [w19]: https://github.com/snowan/ARTS/blob/master/2018-12-02-w19-ARTS.md
 [w20]: https://github.com/snowan/ARTS/blob/master/2018-12-10-w20-ARTS.md
-[w21]: https://github.com/snowan/ARTS/blob/master/2018-12-10-w20-ARTS.md
+[w21]: https://github.com/snowan/ARTS/blob/master/2018-12-17-w21-ARTS.md
 [w22]: https://github.com/snowan/ARTS/blob/master/2018-12-23-w22-ARTS.md
 [w23]: https://github.com/snowan/ARTS/blob/master/2018-12-31-w23-ARTS.md
 
