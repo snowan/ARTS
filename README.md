@@ -117,6 +117,11 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [LC 539][w23]  | [Kubernetes Scheduler][w23]| [Arc App][w23] |  [High Peformance Load balancing with NGINX][w23] |
 
+### [Week #24][w24]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 253][w24]  | [Review 2018][w24]| [Dash Alfred workflow][w24] |  [The Trump Show, season Two (the economist)][w24] |
+
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
 [w3]: https://github.com/snowan/ARTS/blob/master/2018-07-28-W3-ARTS.md
@@ -139,4 +144,5 @@ Used to track 左耳听风 weekly assignments for one year.
 [w21]: https://github.com/snowan/ARTS/blob/master/2018-12-17-w21-ARTS.md
 [w22]: https://github.com/snowan/ARTS/blob/master/2018-12-23-w22-ARTS.md
 [w23]: https://github.com/snowan/ARTS/blob/master/2018-12-31-w23-ARTS.md
+[w24]: https://github.com/snowan/ARTS/blob/master/2019-01-06-w24-ARTS.md
 
