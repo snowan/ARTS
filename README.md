@@ -135,7 +135,7 @@ Used to track 左耳听风 weekly assignments for one year.
 ### [Week #27][w27]
 | **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
-| [LC 764, 277, 282, 528, 251, 161, 862][w27]  | [How to Analyze Java Thread Dumps][w27]| [Using `jstack` to generate Java Thread Dumps][w27] |  [Scale Out - Distributed Caching On The Path To Scalability]][w27] |
+| [LC 764, 277, 282, 528, 251, 161, 862][w27]  | [How to Analyze Java Thread Dumps][w27]| [Using `jstack` to generate Java Thread Dumps][w27] |  [Scale Out - Distributed Caching On The Path To Scalability][w27] |
 
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
