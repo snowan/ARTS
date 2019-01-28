@@ -122,6 +122,21 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [LC 253][w24]  | [Review 2018][w24]| [Dash Alfred workflow][w24] |  [The Trump Show, season Two (the economist)][w24] |
 
+### [Week #25][w25]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 273, 426, 314, 124, 146][w25]  | [Cache Algorithms][w25]| [Latency Charts][w25] |  [[MyRocks: A space- and write-optimized MySQL database][w25] |
+
+### [Week #26][w26]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 785, 15, 259][w26]  | [Review how to Design Distributed Cache][w26]| [Pi-Hole][w26] |  [Scaling Memcached at Facebook][w26] |
+
+### [Week #27][w27]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 764, 277, 282, 528, 251, 161, 862][w27]  | [How to Analyze Java Thread Dumps][w27]| [Using `jstack` to generate Java Thread Dumps][w27] |  [Scale Out - Distributed Caching On The Path To Scalability]][w27] |
+
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
 [w3]: https://github.com/snowan/ARTS/blob/master/2018-07-28-W3-ARTS.md
@@ -145,4 +160,7 @@ Used to track 左耳听风 weekly assignments for one year.
 [w22]: https://github.com/snowan/ARTS/blob/master/2018-12-23-w22-ARTS.md
 [w23]: https://github.com/snowan/ARTS/blob/master/2018-12-31-w23-ARTS.md
 [w24]: https://github.com/snowan/ARTS/blob/master/2019-01-06-w24-ARTS.md
+[w25]: https://github.com/snowan/ARTS/blob/master/2019-01-13-w25-ARTS.md
+[w26]: https://github.com/snowan/ARTS/blob/master/2019-01-20-w26-ARTS.md
+[w27]: https://github.com/snowan/ARTS/blob/master/2019-01-27-w27-ARTS.md
 
