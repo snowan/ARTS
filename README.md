@@ -152,6 +152,11 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [LC 7297, 560, 67, 238, 121, 122, 123, 188, 659, 678][w30]  | [Raft Paper][w30]| [Procreate ios app][w30] |  [Migrating Messenger storage to optimize performance][w30] |
 
+### [Week #31][w31]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 523][w31]  | [Java Blocking Queue][w31]| [Dozer - Hiding menu bar icon on MacOS][w31] |  [BBC: The Truth About Healthy Eating][w31] |
+
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
 [w3]: https://github.com/snowan/ARTS/blob/master/2018-07-28-W3-ARTS.md
@@ -181,4 +186,5 @@ Used to track 左耳听风 weekly assignments for one year.
 [w28]: https://github.com/snowan/ARTS/blob/master/2019-02-03-w28-ARTS.md
 [w29]: https://github.com/snowan/ARTS/blob/master/2019-02-10-w29-ARTS.md
 [w30]: https://github.com/snowan/ARTS/blob/master/2019-02-17-w30-ARTS.md
+[w31]: https://github.com/snowan/ARTS/blob/master/2019-02-24-w31-ARTS.md
 
