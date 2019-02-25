@@ -142,6 +142,11 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [LC 904, 929, 482][w28]  | [ Large-scale cluster management at Google with Borg][w28]| [vscode-leetcode][w28] |  [ HTTP/3 Replaces TCP with UDP to Boost Network Speed, Reliability][w28] |
 
+### [Week #29][w29]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 300, 399, 301, 339, 65][w29]  | [Spark Paper][w29]| [Feedly App, all in one][w29] |  [Continues MySQL backup validation: Restoring backups][w29] |
+
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
 [w3]: https://github.com/snowan/ARTS/blob/master/2018-07-28-W3-ARTS.md
@@ -169,4 +174,5 @@ Used to track 左耳听风 weekly assignments for one year.
 [w26]: https://github.com/snowan/ARTS/blob/master/2019-01-20-w26-ARTS.md
 [w27]: https://github.com/snowan/ARTS/blob/master/2019-01-27-w27-ARTS.md
 [w28]: https://github.com/snowan/ARTS/blob/master/2019-02-03-w28-ARTS.md
+[w29]: https://github.com/snowan/ARTS/blob/master/2019-02-10-w29-ARTS.md
 
