@@ -157,6 +157,11 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [LC 523][w31]  | [Java Blocking Queue][w31]| [Dozer - Hiding menu bar icon on MacOS][w31] |  [BBC: The Truth About Healthy Eating][w31] |
 
+### [Week #41][w41]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 678][w41]  | [Designing Data-Intensive Applications - Reliable, Scalable, Maintianable Applications][w41]| [The Huawei's ban is worth the pain][w41] |  [2019 面试感想 (面过硅谷各大巨头 如FLAG等公司)][w41] |
+
 ### [Week #42][w42]
 | **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
@@ -192,5 +197,6 @@ Used to track 左耳听风 weekly assignments for one year.
 [w29]: https://github.com/snowan/ARTS/blob/master/2019-02-10-w29-ARTS.md
 [w30]: https://github.com/snowan/ARTS/blob/master/2019-02-17-w30-ARTS.md
 [w31]: https://github.com/snowan/ARTS/blob/master/2019-02-24-w31-ARTS.md
+[w41]: https://github.com/snowan/ARTS/blob/master/2019-05-05-w41-ARTS.md
 [w42]: https://github.com/snowan/ARTS/blob/master/2019-05-12-w42-ARTS.md
 
