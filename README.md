@@ -167,6 +167,11 @@ Used to track 左耳听风 weekly assignments for one year.
 | -------------:|----------------------------------------------:|------------------:|-------------------------:|
 | [LC 516][w42]  | [MySQL InnoDB Clustered and Secondary Index][w42]| [Mac color picker][w42] |  [Scaling Slack's Job Queue][w42] |
 
+### [Week #43][w43]
+| **Algorithm** | **Review**                                    | **Tips**          |  **Share**               |
+| -------------:|----------------------------------------------:|------------------:|-------------------------:|
+| [LC 688][w43]  | [MySQL index: Unique Index][w43]| [Mac sips 图片处理命令行工具][w43] |  [][w43] |
+
 [w1]: https://github.com/snowan/ARTS/blob/master/2018-07-14-W1-ARTS.md
 [w2]: https://github.com/snowan/ARTS/blob/master/2018-07-21-W2-ARTS.md
 [w3]: https://github.com/snowan/ARTS/blob/master/2018-07-28-W3-ARTS.md
@@ -199,4 +204,5 @@ Used to track 左耳听风 weekly assignments for one year.
 [w31]: https://github.com/snowan/ARTS/blob/master/2019-02-24-w31-ARTS.md
 [w41]: https://github.com/snowan/ARTS/blob/master/2019-05-05-w41-ARTS.md
 [w42]: https://github.com/snowan/ARTS/blob/master/2019-05-12-w42-ARTS.md
+[w43]: https://github.com/snowan/ARTS/blob/master/2019-05-19-w43-ARTS.md
 
